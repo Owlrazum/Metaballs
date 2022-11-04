@@ -7,7 +7,7 @@ In more detail though, this repo was created after the package itself was create
 
 The link to the project where it was used: https://play.google.com/store/apps/details?id=com.skynomadgames.colorconquer&hl=en_US&gl=US
 
-THe marching cubes algorithm itself was partly implemented with the help of https://github.com/Eldemarkki/Marching-Cubes-Terrain.git
+The marching cubes algorithm itself was partly implemented with the help of https://github.com/Eldemarkki/Marching-Cubes-Terrain.git
 
 ## Video.
 
